@@ -1,11 +1,3 @@
-
-
-https://github.com/user-attachments/assets/d2b8a202-4a97-424c-8e4f-7a1ef94466de
-
-
-
-https://github.com/user-attachments/assets/2b276aa7-7bbe-4e40-9143-18e6c15c3d7c
-
 # pennairsoftware
 
 i am not going to commment on test.py it's kept purely for messy (not) quick testing
