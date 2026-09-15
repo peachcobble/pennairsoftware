@@ -1,3 +1,11 @@
+
+
+https://github.com/user-attachments/assets/d2b8a202-4a97-424c-8e4f-7a1ef94466de
+
+
+
+https://github.com/user-attachments/assets/2b276aa7-7bbe-4e40-9143-18e6c15c3d7c
+
 # pennairsoftware
 
 i am not going to commment on test.py it's kept purely for messy (not) quick testing
@@ -22,12 +30,12 @@ The times for part 2 and 4 might be longer because I ran them at the same time. 
 
 Part 2
 Total time: 267.99 seconds
-<video src="Part2/part2output.mp4" width="480" height="270" controls></video>
+<video src="https://github.com/user-attachments/assets/6efca311-0e6f-469c-b3a7-aaa897104a4f" width="480" height="270" controls></video>
 
 Part 3
 Total time: 249.76 seconds
-<video src="Part3/part3output.mp4" width="480" height="270" controls></video>
+<video src="https://github.com/user-attachments/assets/6f62c194-cc9e-4e97-931b-c745cc1f7591" width="480" height="270" controls></video>
 
 Part 4
 Total time: 311.64 seconds
-<video src="Part4/part4output.mp4" width="480" height="270" controls></video>
+<video src="https://github.com/user-attachments/assets/e4fd9f6a-2beb-4326-9fdc-39bbea6d55ee" width="480" height="270" controls></video>
