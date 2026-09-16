@@ -3,6 +3,7 @@
 i am not going to commment on test.py it's kept purely for messy (not) quick testing
 
 to run the code:
+please use opencv-contrib-python instead of opencv-python
 let n represent any int 
 go to Part{n}.py, and just press run.
 the output should go to the Part{n} folder
